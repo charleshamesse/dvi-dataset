@@ -39,9 +39,19 @@ Special thanks to Alain Vanhove, Mario Malizia and Timothée Fréville.
 
 
 ## Citation
-
-This work is currently under revision. We will update the citation later on.
-
+```
+@article{hamesse_dvi_2024,
+  author={Hamesse, Charles and Vlaminck, Michiel and Luong, Hiep and Haelterman, Rob},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Depth-Visual-Inertial (DVI) Mapping System for Robust Indoor 3D Reconstruction}, 
+  year={2024},
+  volume={9},
+  number={12},
+  pages={11313-11320},
+  keywords={Sensor systems;Cameras;Odometry;Sensor fusion;Visualization;Trajectory;Laser radar;Kalman filters;Mapping;localization;RGB-D perception;search and rescue robots},
+  doi={10.1109/LRA.2024.3487496}
+}
+```
 
 ----
 
